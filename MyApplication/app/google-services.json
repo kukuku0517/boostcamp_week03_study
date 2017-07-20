@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "790760739742",
+    "firebase_url": "https://boostweek2miniproject.firebaseio.com",
+    "project_id": "boostweek2miniproject",
+    "storage_bucket": "boostweek2miniproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790760739742:android:a10eacd6f9843327",
+        "android_client_info": {
+          "package_name": "com.example.android.boostcamp_week02_miniproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790760739742-0p5m7nv0b7860dbbs6m8fblevar9p670.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhYMgefprNhu4o3yrQBw1fs_bXt_1MV6U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790760739742:android:6eb46217a146a01b",
+        "android_client_info": {
+          "package_name": "com.example.android.boostcampWeek02Miniproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790760739742-0p5m7nv0b7860dbbs6m8fblevar9p670.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhYMgefprNhu4o3yrQBw1fs_bXt_1MV6U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790760739742:android:fa2722aab1bc3759",
+        "android_client_info": {
+          "package_name": "com.example.android.boostcampweek03miniproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790760739742-0p5m7nv0b7860dbbs6m8fblevar9p670.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhYMgefprNhu4o3yrQBw1fs_bXt_1MV6U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
